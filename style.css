@@ -1,0 +1,84 @@
+#topnav a{
+    text-decoration: none;
+    color: white;
+    
+
+}
+#Elevate{
+    background-image: url(/image/top.jpeg);
+    background-size: cover;
+    color: white;
+}
+#India{
+    text-align: center;
+}
+#Rasi{
+    display: flex;
+    justify-content: space-around;
+}
+#buttons{
+    border-radius: 40%;
+    background-color: green;
+    color: white;
+     height: 40px;
+}
+#button{
+    border-radius: 40%;
+    background-color: white;
+    color: black;
+    height: 40px;
+}
+#time{
+    text-decoration: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: large;
+}
+#rasi{
+border: 2px;
+background-color: green;
+height: 45px;
+color: white;
+}
+#array{
+    text-align: center;
+}
+#screen{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: large;
+}
+#Technique{
+    display: flex;
+    justify-content: space-around;
+}
+#Traditional{
+    display: flex;
+    justify-content: space-around;
+}
+#Praise{
+    text-align: center;
+}
+#High{
+    display: flex;
+    justify-content: space-around;
+}
+#Showcase{
+    display: grid;
+}
+#showcase{
+    display: flex;
+    justify-content: space-around;
+}
+#Reach{
+    text-align: center;
+}
+#Contact{
+    display: flex;
+    justify-content: space-around;
+    background-color: navy;
+}
+#two{
+    display: grid;
+}
+#one{
+    display: flex;
+}
